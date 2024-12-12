@@ -33,13 +33,13 @@ description: "「这里是骗人服官网......你被骗了，这其实是骗人
 {% if paginator.total_pages > 1 %}
 <ul class="pager">
     {% if paginator.previous_page %}
-    <li class="上一个">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; 下一个</a>
     </li>
     {% endif %}
     {% if paginator.next_page %}
-    <li class="下一个">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    <li class="next">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">上一个 &rarr;</a>
     </li>
     {% endif %}
 </ul>
