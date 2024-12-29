@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "服主做的整合包（玩指令的话推荐装）"
+subtitle:   "服主做的整合包（玩指令的话推荐装）"
+date:       2024-12-29 00:00:00
+author:     "骗人服"
+hidden: false
+tags:
+    - 整合包
+---
+<div>
+    <br>整合包1.0版本下载链接：https://wwzj.lanzoul.com/iB7zL2jbyomd 下载好后拖进pcl就能自动下载并安装整合包
+	<br>如果有有关整合包/服务器的建议可加
+	<br>QQ:2609322291 微信：wxid_zraocuawfrok22 （标明来意）
