@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "服主做的整合包（玩指令的话推荐装）"
-subtitle:   "服主做的整合包（玩指令的话推荐装）"
+title:      "骗人服优化"
+subtitle:   "骗人服优化"
 date:       2025-1-1 00:00:00
 author:     "骗人服"
 hidden: false
