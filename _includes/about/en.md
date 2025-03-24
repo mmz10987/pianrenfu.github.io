@@ -1,19 +1,8 @@
-Misleading Server Address:
-
-For domestic access: pianrenfu.us.kg
-
-For international access: guowai.pianrenfu.us.kg
-
-Official Website: guanwang.pianrenfu.us.kg
-
-Supported Versions:
-
-JE: 1.10.X - 1.21
-
-BE: 1.21.1X - 1.21.4X
-
-Updates will be released by December 20, 2024, to version Java 1.21.3. After the update, the supported versions will be:
-
-JE: 1.10.X - 1.21
-
-BE: 1.21.2X - 1.21.5X
+Server Address for "Pianrenfu" (Deceit Server):  
+Domestic Access: pianrenfu.top  
+Overseas Access: guowai.pianrenfu.top  
+Official Website: pianrenfu.top  
+Supported Versions:  
+Java: 1.10.X-1.21  
+Bedrock: 1.21.2X-1.21.5X  
+Origin of the Name "Pianrenfu": After seeing someone online create a server called "Pianzanfu" (Like-bait Server), the name seemed interesting. However, to avoid using the same name, it was decided to name this server "Pianrenfu" (Deceit Server). But don’t worry, it doesn’t deceive anyone! You can look around—there’s no place where payment is required.  
